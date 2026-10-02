@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://jeremstyke.github.io/dailyscore/"><b>🌐 Play on the web (sign in with GitHub)</b></a>
+  <a href="https://jeremstyke.github.io/dailyscore/"><b>🌐 Play on the web</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://jeremstyke.github.io/dailyscore/android.html"><b>📲 Android app (APK)</b></a>
   &nbsp;·&nbsp;
   <a href="https://t.me/DailyScorefootbot?start=src_github"><b>✈️ Play on Telegram</b></a>
 </p>
@@ -35,13 +37,13 @@ No money involved, no betting: just football, friends and bragging rights.
 - 📊 **The trend + AI prediction**: see what everyone predicted, and the prediction of an AI that checks the latest team news (on Telegram)
 - ⏰ **Reminders** 2 hours before kick-off, and your result after the match (on Telegram)
 - 🌍 **9 languages**: English, Français, Español, Português, Deutsch, Italiano, العربية, Türkçe, Русский
-- 🖥️ **Play anywhere**: on the web with your **GitHub** account, or on **Telegram**. Everyone plays in the same rankings, with a GitHub or Telegram logo next to each player.
+- 🖥️ **Play anywhere**: on the web or the **Android app** with your **Google** or **GitHub** account, or on **Telegram**. Everyone plays in the same rankings, with a logo next to each player.
 
 ## 🚀 How to play
 
 **On the web**
 1. Open **[jeremstyke.github.io/dailyscore](https://jeremstyke.github.io/dailyscore/)**
-2. Sign in with **GitHub**
+2. Sign in with **Google** (or GitHub)
 3. Choose your language and your country, then make your pick
 
 **On Telegram**
