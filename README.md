@@ -39,7 +39,7 @@ No money involved, no betting: just football, friends and bragging rights.
 - 🔥 **Daily streak** with a bonus every 7 days, protected on days without a match
 - 🏅 **26 badges** to collect: picks, exact scores, streaks, points, friends invited, special feats
 - 🤝 **Invite your friends**: you both get a free trend when they make their first pick
-- 📊 **The trend + AI prediction**: see what everyone predicted, and the prediction of an AI that checks the latest team news (on Telegram)
+- 📊 **The trend + AI prediction**: see what everyone predicted, and the prediction of an AI that checks the latest team news (on Telegram only, for now)
 - ⏰ **Reminders** 2 hours before kick-off, and your result after the match (on Telegram)
 - 🌍 **9 languages**: English, Français, Español, Português, Deutsch, Italiano, العربية, Türkçe, Русский
 - 🖥️ **Play anywhere**: on the web or the **Android app** with your **Google** or **GitHub** account, or on **Telegram**. Everyone plays in the same rankings, with a logo next to each player.
