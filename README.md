@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://jeremstyke.github.io/dailyscore/"><b>🌐 Play on the web</b></a>
+  <a href="https://dailyscoreapp.com/"><b>🌐 Play on the web</b></a>
   &nbsp;·&nbsp;
-  <a href="https://jeremstyke.github.io/dailyscore/android.html"><b>📲 Android app (APK)</b></a>
+  <a href="https://dailyscoreapp.com/android.html"><b>📲 Android app (APK)</b></a>
   &nbsp;·&nbsp;
   <a href="https://t.me/DailyScorefootbot?start=src_github"><b>✈️ Play on Telegram</b></a>
 </p>
 
 <p align="center">
-  <a href="https://jeremstyke.github.io/dailyscore/android.html"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpote-ia-bot-en-production.up.railway.app%2Fds%2Fbadge.json%3Fk%3Ddownloads" alt="APK downloads"></a>
-  <a href="https://jeremstyke.github.io/dailyscore/android.html"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpote-ia-bot-en-production.up.railway.app%2Fds%2Fbadge.json%3Fk%3Dinstalls" alt="Android installs"></a>
+  <a href="https://dailyscoreapp.com/android.html"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpote-ia-bot-en-production.up.railway.app%2Fds%2Fbadge.json%3Fk%3Ddownloads" alt="APK downloads"></a>
+  <a href="https://dailyscoreapp.com/android.html"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpote-ia-bot-en-production.up.railway.app%2Fds%2Fbadge.json%3Fk%3Dinstalls" alt="Android installs"></a>
 </p>
 
 <p align="center"><i>Beta version · free · 9 languages · by <a href="https://t.me/jeremstyke">@jeremstyke</a></i></p>
@@ -47,7 +47,7 @@ No money involved, no betting: just football, friends and bragging rights.
 ## 🚀 How to play
 
 **On the web**
-1. Open **[jeremstyke.github.io/dailyscore](https://jeremstyke.github.io/dailyscore/)**
+1. Open **[dailyscoreapp.com](https://dailyscoreapp.com/)**
 2. Sign in with **Google** (or GitHub)
 3. Choose your language and your country, then make your pick
 
@@ -73,6 +73,6 @@ Yes: invite them with your personal link, compare your picks and fight in the ra
 ---
 
 <p align="center">
-  <a href="https://jeremstyke.github.io/dailyscore/"><b>Play now →</b></a><br>
+  <a href="https://dailyscoreapp.com/"><b>Play now →</b></a><br>
   <i>Daily Score: free football prediction game · football score predictor · soccer pick'em · by @jeremstyke</i>
 </p>
