@@ -13,6 +13,11 @@
   <a href="https://t.me/DailyScorefootbot?start=src_github"><b>✈️ Play on Telegram</b></a>
 </p>
 
+<p align="center">
+  <a href="https://jeremstyke.github.io/dailyscore/android.html"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpote-ia-bot-en-production.up.railway.app%2Fds%2Fbadge.json%3Fk%3Ddownloads" alt="APK downloads"></a>
+  <a href="https://jeremstyke.github.io/dailyscore/android.html"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpote-ia-bot-en-production.up.railway.app%2Fds%2Fbadge.json%3Fk%3Dinstalls" alt="Android installs"></a>
+</p>
+
 <p align="center"><i>Beta version · free · 9 languages · by <a href="https://t.me/jeremstyke">@jeremstyke</a></i></p>
 
 ---
