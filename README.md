@@ -52,7 +52,7 @@ No money involved, no betting: just football, friends and bragging rights.
 ## ❓ FAQ
 
 **Is Daily Score free?**
-Yes. Predictions, rankings, streaks and badges are free. Only the optional trend + AI prediction costs 1 Telegram Star (or is free with a friend invitation).
+Yes. Predictions, rankings, streaks and badges are free. Only the optional trend + AI prediction costs 10 Telegram Stars (or is free with a friend invitation). Web players can link their Telegram account to buy it and to get reminders.
 
 **Can I win money?**
 No. Daily Score is a game for fun, with points, rankings and badges only. It is not a betting site.
