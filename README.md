@@ -27,7 +27,7 @@
 **Daily Score** is a free **football prediction game** (also called a football score predictor or soccer pick'em game). Every day, the game picks **one big match** from the top European leagues and the Champions League. You have until kick-off to **predict the final score**. That's it: 30 seconds a day.
 
 - **3 points** for the exact score
-- **1 point** for the right winner (or a draw)
+- **1 point** for the right result (win or draw)
 - **+3 bonus points** every 7 days in a row
 
 No money involved, no betting: just football, friends and bragging rights.
